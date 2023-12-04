@@ -1,0 +1,15 @@
+.product-image{
+    width: 100%;
+    height: 400px;
+    object-fit: contain;
+}
+.product-color1{
+    border: 3px solid #000;
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+}
+.product-details{
+    margin-top: 50px;
+    margin-bottom: 80px;
+}
